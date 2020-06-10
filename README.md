@@ -1,9 +1,9 @@
 shiny-boxplot
 =============
 
-Please findd the source code for the tool presented in BoxplotR: a web-tool for generation of box plots (Spitzer at al. 2014).
+Here you find the source code for the tool presented in BoxplotR: a web-tool for generation of box plots (Spitzer at al. 2014).
 
-installation
+Installation
 ------------
 
 Before running the app you will need to have R and RStudio installed (tested with R 3.0.2 and RStudio 0.97.449).
